@@ -1,8 +1,8 @@
 
 ## Getting and Cleaning Data (Coursera Course Project)
 This readme file is generated to describe the R script "run_analysis.R".
-This script is used to analyze data for the getting and cleaning data project
-a coursera course project for data science specialization.
+This script is used to analyze data for the getting and cleaning data project,
+a coursera course project in data science specialization.
 
 
 
