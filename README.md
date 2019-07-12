@@ -6,7 +6,7 @@ a coursera course project for data science specialization.
 
 
 
-## Getting, Cleaning, and Analizing the Data
+## Getting, Cleaning, and Analyzing the Data
 1.The script starts by downloading data from specified URL
 2. Unzips the downloaded file
   * The data comes in 4 categories
